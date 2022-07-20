@@ -1,0 +1,27 @@
+table,th,td{
+    border: 1px solid;
+    border-collapse: collapse;
+    /* padding: 10px; */
+    margin: 50px;
+    text-align: center;
+    background-color: rgb(180, 218, 120);
+   
+   
+}
+table,th,td:hover{
+    background-color: aliceblue;
+}
+body{
+    background-color: rgb(50, 160, 160);
+}
+.image{
+    width: 100px;
+    height: 100px;
+}
+td{
+    width: 150px;
+}
+.one{
+    width: 100px;
+    height: 100px;
+}
